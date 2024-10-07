@@ -13,5 +13,8 @@ Before I added in a cannonball, after the second generation the AI would already
 I didnt want to make the canonball unfair so I made it only appear at coordinates where the pipe wasn't open. The AI found that the best way to beat the game that way
 was to immediately go to the next pipe opening. 
 
+# Here's a video of it on youtube:
+https://youtu.be/H4kvSf1oYVg
+
 # Thanks for reading. 
 # Credit goes to: Tech with Tim, this project was mostly based off of his tutorial
